@@ -1,6 +1,6 @@
 # Blockchain Node
 
-This was a project to build a blockchain node in Python for CMPT471.
+This was a project to simulate a blockchain protocol in Python for CMPT471.
 
 ## The Required Environment
 
